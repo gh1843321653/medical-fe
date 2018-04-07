@@ -1,0 +1,25 @@
+#cp-login .weui-label{
+    width: 80px ;
+}
+
+/*按钮------------------------------------------------------*/
+
+#app .weui-btn_primary{
+    background-color:#5aadfb;
+}
+
+#app .weui-btn{
+    border-radius: 1.1em/50%;
+    
+}
+
+#app .weui-btn_disabled{
+	background-color:#eceded;
+	color:#aaa7a7;
+	
+}
+
+.weui-cells{
+	margin-top: 0px !important;
+	margin-bottom: 10px;
+}

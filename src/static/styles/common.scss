@@ -1,0 +1,57 @@
+$fontSize: 12px;
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    font-size: 1px;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+        font-size: 16rem;
+        overflow-x: hidden;
+        
+    }
+
+a{
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+a:active{ 
+    font-weight: bolder;
+}
+a:focus {
+outline: none;
+}
+
+input:focus{
+    outline: none;
+}
+
+input::-webkit-input-placeholder{ 
+    color: #bfbfbf;
+}
+
+input::-moz-input-placeholder{
+    color: #bfbfbf;
+}
+
+input::-ms-input-placeholder{
+    color: #bfbfbf;
+}
+
+
+
+ul{
+    list-style: none;
+}
+
+button:focus{
+    outline: none;
+}
